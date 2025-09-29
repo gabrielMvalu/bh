@@ -373,9 +373,9 @@ Creat cu ❤️ pentru gestionarea eficientă a pontajelor în construcții
 ## 📞 Support
 
 Pentru probleme sau întrebări:
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/pontaj-brenado/issues)
-- 📧 Email: your.email@example.com
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/pontaj-brenado/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/gabrielMvalu/bh/issues)
+- 📧 Email: mariang-gabriel.valu@castemill.com
+- 💬 Discussions: [GitHub Discussions](https://github.com/gabrielMvalu/bh/discussions)
 
 ---
 
