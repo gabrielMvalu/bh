@@ -65,7 +65,7 @@ Aplicație modernă pentru gestionarea pontajelor, angajaților, șantierelor ș
 
 1. **Clonare repository**
 ```bash
-git clone https://github.com/yourusername/pontaj-brenado.git
+git clone https://github.com/gabrielMvalu/bh.git
 cd pontaj-brenado
 ```
 
