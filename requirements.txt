@@ -1,1 +1,9 @@
-streamlit
+streamlit==1.31.0
+firebase-admin==6.4.0
+pandas==2.1.4
+openpyxl==3.1.2
+plotly==5.18.0
+python-dateutil==2.8.2
+Pillow==10.2.0
+reportlab==4.0.9
+xlsxwriter==3.1.9
